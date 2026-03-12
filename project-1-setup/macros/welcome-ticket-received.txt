@@ -1,0 +1,14 @@
+Subject: We've received your request — Ticket #{{ticket.id}}
+
+Hi {{ticket.requester.first_name}},
+
+Thank you for contacting NovaTech Support! We've received your ticket and our team is on it.
+
+Here's what happens next:
+- A support agent will review your request shortly
+- You'll receive updates via email
+- Your ticket number is #{{ticket.id}} — use this to reference your case
+
+We appreciate your patience!
+
+NovaTech Support Team

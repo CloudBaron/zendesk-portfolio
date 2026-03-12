@@ -1,0 +1,14 @@
+Subject: We need a little more information — Ticket #{{ticket.id}}
+
+Hi {{ticket.requester.first_name}},
+
+Thank you for reaching out! To help resolve your issue as quickly as possible, we need a bit more information:
+
+- [ ] Can you describe the issue in more detail?
+- [ ] What steps did you take before the issue occurred?
+- [ ] What device/browser/OS are you using?
+- [ ] Are you able to share a screenshot or screen recording?
+
+Once we hear back from you, we'll get right on it.
+
+NovaTech Support Team

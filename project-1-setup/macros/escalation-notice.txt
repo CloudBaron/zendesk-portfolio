@@ -1,0 +1,11 @@
+Subject: Your ticket has been escalated — Ticket #{{ticket.id}}
+
+Hi {{ticket.requester.first_name}},
+
+We wanted to let you know that your ticket (#{{ticket.id}}) has been escalated to our senior support team for further investigation.
+
+This means your issue is being treated with high priority. You can expect an update within 2 business hours.
+
+We apologize for the inconvenience and appreciate your patience.
+
+NovaTech Support Team

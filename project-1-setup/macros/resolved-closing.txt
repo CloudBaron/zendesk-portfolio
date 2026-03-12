@@ -1,0 +1,16 @@
+Subject: Your issue has been resolved — Ticket #{{ticket.id}}
+
+Hi {{ticket.requester.first_name}},
+
+Great news! Your support ticket (#{{ticket.id}}) has been resolved.
+
+Here's a summary of what was done:
+[Agent fills in resolution details here]
+
+If you have any further questions or the issue comes back, don't hesitate to reply to this email — we're always happy to help.
+
+We'd love your feedback! A quick survey will be sent to your inbox shortly.
+
+Thanks for being a NovaTech customer.
+
+NovaTech Support Team
